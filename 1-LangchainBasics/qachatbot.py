@@ -13,7 +13,7 @@ import os
 
 
 ## Page Config
-st.set_page_config(page_title="Simple LangChain Chatbot with Groq",page_icon="*")
+st.set_page_config(page_title=" LangChain Chatbot with Groq",page_icon="*")
 
 ## Title
 st.title("  LangChain Chat with Groq ")
