@@ -1,5 +1,5 @@
 """
-Simple Langchain Streamlit App with Groq 
+Langchain Streamlit App with Groq 
 A beginner-Friendly version Focusing On core concepts
 """
 
